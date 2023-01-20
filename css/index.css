@@ -1,0 +1,16 @@
+.cau1,.cau2,.cau3,.cau4,.cau5{
+    width: 50%;
+    border-radius: 10px;
+    padding: 20px 10px;
+    background-color: #ffc3c3;
+    text-align: center;
+}
+button{
+    width: 100%;
+    font-weight: bold;
+}
+.ketQua{
+    font-weight: 400;
+    font-size: 35px;
+
+}
